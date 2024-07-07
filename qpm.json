@@ -5,8 +5,8 @@
   "info": {
     "name": "SongDownloader",
     "id": "songdownloader",
-    "version": "0.8.0",
-    "url": "https://github.com/darknight1050/SongDownloader",
+    "version": "0.8.1",
+    "url": "https://github.com/peter50216/SongDownloader",
     "additionalData": {
       "overrideSoName": "libsongdownloader.so",
       "cmake": true
